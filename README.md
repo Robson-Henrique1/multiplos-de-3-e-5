@@ -2,7 +2,7 @@
 Função simples para encontrar e somar os multiplos de 3 e 5 inferiores ao numero recebido
 <div align = "center">
 <h1>Como usar?<h1>
-<h5>Bom para usar o Codigo em flutter voce poder utilizar VSCODE,AndroidStudio ou DartPad deixei uma função especifica para ser apresentada no terminal e usada no dartpad<h5>
+<h5>Bom para usar o Codigo em flutter voce poder utilizar VSCODE,AndroidStudio ou DartPad deixei uma função especifica para ser apresentada no terminal ou no dartpad<h5>
 <h5>Neste exemplo aqui abaixo podemos ver a tela do app nela voce escolhera um numero e a resposta sera exibida.<h5>
 <img src="https://user-images.githubusercontent.com/102297372/186432656-6e242b12-49de-4737-85dc-84c8a1c392fe.png" width="240px" />
 <h5>Aqui abaixo podemos ver o codigo funcionando.<h5>
